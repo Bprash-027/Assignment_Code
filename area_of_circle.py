@@ -8,6 +8,8 @@ def area_of_cirle(rad):
 
 area_of_cirle(23.45)
 area_of_cirle(56.78)
+area_of_cirle(55.78)
+area_of_cirle(24.78)
 
 
 
